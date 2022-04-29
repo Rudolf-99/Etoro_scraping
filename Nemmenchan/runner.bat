@@ -1,0 +1,2 @@
+python etoro.py
+pause

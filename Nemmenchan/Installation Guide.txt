@@ -1,0 +1,12 @@
+1 - Install python3.7 (Don't forget to check the box "Add path variables", while installing python)
+2 - open the terminal(command prompt) and run the following command once.
+	pip install scrapy
+	pip install requests
+	pip install selenium
+	pip install webdriver-manager
+
+3 - Now whenever you want to run the script follow the below steps.
+
+4 - Double click on runner.bat file (if you're using windows otherwise open the Terminal in project directory and type (python etoro.py))
+5 - Wait for the terminal to complete the process.
+6 - your new output file will be generated in Ouput folder.
